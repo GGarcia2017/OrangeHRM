@@ -4,6 +4,7 @@
 <suite name="Orange HRM Test">
   <test name="Test">
   	<classes>
+  		
   		<class name="OpenSource.open_Browser">
   			<methods>
   				<include name="Environment"/>
@@ -14,6 +15,7 @@
   				<include name="LoginConfirmed"/>
   			</methods>
   		</class>
+  		
   	</classes>
   </test>
 </suite>
