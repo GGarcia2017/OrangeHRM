@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Orange HRM Test" duration-ms="7348" started-at="2021-04-06T08:14:48 COT" finished-at="2021-04-06T08:14:55 COT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="7348" started-at="2021-04-06T08:14:48 COT" finished-at="2021-04-06T08:14:55 COT">
+      <class name="OpenSource.open_Browser">
+        <test-method status="PASS" signature="Environment()[pri:0, instance:OpenSource.open_Browser@6e1ec318]" name="Environment" duration-ms="4687" started-at="2021-04-06T08:14:48 COT" finished-at="2021-04-06T08:14:53 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Environment -->
+        <test-method status="PASS" signature="correctloginPage()[pri:0, instance:OpenSource.open_Browser@6e1ec318]" name="correctloginPage" duration-ms="15" started-at="2021-04-06T08:14:53 COT" finished-at="2021-04-06T08:14:53 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctloginPage -->
+        <test-method status="PASS" signature="SendUser()[pri:0, instance:OpenSource.open_Browser@6e1ec318]" name="SendUser" duration-ms="89" started-at="2021-04-06T08:14:53 COT" finished-at="2021-04-06T08:14:53 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendUser -->
+        <test-method status="PASS" signature="SendPassword()[pri:0, instance:OpenSource.open_Browser@6e1ec318]" name="SendPassword" duration-ms="85" started-at="2021-04-06T08:14:53 COT" finished-at="2021-04-06T08:14:53 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SendPassword -->
+        <test-method status="PASS" signature="clickOnLogIn()[pri:0, instance:OpenSource.open_Browser@6e1ec318]" name="clickOnLogIn" duration-ms="2432" started-at="2021-04-06T08:14:53 COT" finished-at="2021-04-06T08:14:55 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnLogIn -->
+        <test-method status="PASS" signature="LoginConfirmed()[pri:0, instance:OpenSource.open_Browser@6e1ec318]" name="LoginConfirmed" duration-ms="10" started-at="2021-04-06T08:14:55 COT" finished-at="2021-04-06T08:14:55 COT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginConfirmed -->
+      </class> <!-- OpenSource.open_Browser -->
+    </test> <!-- Test -->
+  </suite> <!-- Orange HRM Test -->
+</testng-results>
