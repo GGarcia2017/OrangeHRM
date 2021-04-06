@@ -67,5 +67,14 @@ public class open_Browser {
 
 		Assert.assertEquals("https://opensource-demo.orangehrmlive.com/index.php/dashboard", driver.getCurrentUrl());
 	}
+	
+	@Test
+	public void CloseBrowser()
+	{
+		closeBrowser close = new closeBrowser(driver);
+		
+		close.closeChromeBrowser();
+		
+	}
 
 }
