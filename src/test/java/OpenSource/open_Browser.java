@@ -29,7 +29,7 @@ public class open_Browser {
 	{
 		System.out.println("URL before login: " + driver.getCurrentUrl());
 		
-		Assert.assertEquals(OpenUrl, driver.getTitle());
+		Assert.assertEquals(OpenUrl, driver.getTitle()); //GitTest
 
 	}
 	
